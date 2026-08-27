@@ -1,0 +1,17 @@
+# Environment variables / secrets - never commit real API keys
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+.venv/
+
+# Editor
+.vscode/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
