@@ -1,5 +1,5 @@
 // Point this at your backend. Change this when you deploy (e.g. Render URL).
-const API_BASE = "http://127.0.0.1:8000";
+const API_BASE = "https://domain-scanner-s6oa.onrender.com";
 
 const form = document.getElementById("scanForm");
 const domainInput = document.getElementById("domainInput");
